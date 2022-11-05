@@ -1,0 +1,17 @@
+
+#about{
+    position: absolute;
+    top: 50%;
+    left: 43%;
+}
+.box {
+    margin-left: 24rem;
+    margin-top: 6rem;
+    display: flex;
+    height: 33rem;
+    width: 54rem;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 5px;
+    box-shadow: 0px 0px 7px 1px rgb(0 0 0 / 56%);
+}
